@@ -1,4 +1,7 @@
 # Created by .gitignore support plugin (hsz.mobi)
+.DS_Store
+.project
+.settings
 .idea
 target
 gs-accessing-twitter.iml
